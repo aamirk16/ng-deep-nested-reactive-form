@@ -17,6 +17,7 @@
   },
   "scripts": {
     "ng": "ng",
+    "dev":"npm install --legacy-peer-deps && npm run start",
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
